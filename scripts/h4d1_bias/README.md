@@ -69,6 +69,6 @@ Day         Bearish None Bullish
 ```
 
 Sample plot:
-![alt text](https://dl.dropboxusercontent.com/u/76734980/ff/stats_thread/d1h4_bias/h4d1bias_EURJPY_20131105T1132.png "H4 D1 bias table plot for EURJPY Created on 05/11/2013")
+![alt text](https://dl.dropboxusercontent.com/u/76734980/ff/stats_thread/d1h4_bias/h4d1bias_EURJPY_20131105T1501.png "H4 D1 bias table plot for EURJPY Created on 05/11/2013")
 
 
